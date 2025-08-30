@@ -33,7 +33,7 @@ function App() {
         >
           Learn TanStack
         </a>
-        <Link to="/sign-up" className="text-[#61dafb] hover:underline">
+        <Link to="/signup" className="text-[#61dafb] hover:underline">
           Sign Up
         </Link>
       </header>
